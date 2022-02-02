@@ -2,7 +2,7 @@
 
 ![Screenshot](img.png "Screenshot")
 
-A (terminal) mockup banking system where you can login to you account, deposit and transfer monetary units. The idea is originated from a Jetbrains Academy project on Java backend development.
+A (terminal-based) mockup banking system where you can login to you account, deposit and transfer monetary units. The idea is originated from a Jetbrains Academy project on Java backend development.
 
 ## Get started
 You can download this repository and get started by running the Main class. Make sure you have the necessary requirements installed on your system (see "Used technologies" below).
