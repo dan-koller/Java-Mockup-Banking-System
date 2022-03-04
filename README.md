@@ -19,4 +19,4 @@ Features:
 - Java 17 (Minimum: Java 11 or newer)
 - SQLite 3*
 
-_*Make sure to add build dependency if you work on an **ARM** system (2020 Macs or newer). Otherwise you will run into errors [as you can see here](https://youtrack.jetbrains.com/issue/DBE-12342)._
+_*Make sure to add build dependency if you work on an **ARM** system (e. g. 2020 Macs or newer). Otherwise you will run into errors [as you can see here](https://youtrack.jetbrains.com/issue/DBE-12342)._
